@@ -1,4 +1,4 @@
-Regex_Pattern = r"^(\d{8}|(\d\d\-\d\d\-\d\d\-\d\d))$"	# Do not delete 'r'.
+Regex_Pattern = r"^(\d{8}|(\d\d\-\d\d\-\d\d\-\d\d))$"	   #  using backreferences  ------->  ^\d\d(-?)(\d\d\1){2}\d\d$    
 
 import re
 
