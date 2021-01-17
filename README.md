@@ -1,4 +1,4 @@
 # SQL
 | Subdomains | Challenge  | MySQL_Solution  |
 | ------- | --- | --- |
-| Seconds | 301 | 283 |
+| Seconds | Top Earners | [Solution](SQL/Top Earners.sql)  |
