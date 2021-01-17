@@ -1,4 +1,4 @@
 # SQL
-| Attempt | #1  | #2  |
+| Subdomains | Challenge  | MySQL_Solution  |
 | ------- | --- | --- |
 | Seconds | 301 | 283 |
