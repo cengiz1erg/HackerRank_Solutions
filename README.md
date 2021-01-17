@@ -1,4 +1,4 @@
 # SQL
-| Subdomains | Challenge  | MySQL_Solution  |
+| Subdomains | Challenge - Link  | MySQL_Solution  |
 | ------- | --- | --- |
-| Seconds | Top Earners | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/tree/main/SQL/Top_Earners.sql)  |
+| Aggregation | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/tree/main/SQL/Top_Earners.sql)  |
