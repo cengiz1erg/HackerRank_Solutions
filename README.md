@@ -5,5 +5,5 @@
 
 # Regex
 | Subdomains | Challenge | MySQL_Solution  |
-| Backreferences | [Backreferences To Failed Groups
-](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/Regex/Backreferences.py) |
+| ------- | --- | --- |
+| Backreferences | [Backreferences To Failed Groups](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/Regex/Backreferences.py) |
