@@ -7,6 +7,7 @@
 | Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/WeatherObservationStation19.sql)  |
 | Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/AsianPopulation.sql)  |
 | Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/AveragePopulationofEachContinent.sql)  |
+| Alternative Queries| [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/drawthetriangle1.sql)  |
 
 # Regex
 | Subdomains | Challenge | Python_Solution  |
