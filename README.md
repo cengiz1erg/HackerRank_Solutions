@@ -5,6 +5,7 @@
 | Aggregation | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/WeatherObservationStation15.sql)  |
 | Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/WeatherObservationStation18.sql)  |
 | Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/WeatherObservationStation19.sql)  |
+| Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/AsianPopulation.sql)  |
 
 # Regex
 | Subdomains | Challenge | Python_Solution  |
