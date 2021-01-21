@@ -8,6 +8,7 @@
 | Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/AsianPopulation.sql)  |
 | Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/AveragePopulationofEachContinent.sql)  |
 | Alternative Queries| [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/drawthetriangle1.sql)  |
+| Advanced Select| [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/ThePADS.sql)  |
 
 # Regex
 | Subdomains | Challenge | Python_Solution  |
