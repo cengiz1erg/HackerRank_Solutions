@@ -22,6 +22,7 @@
 | Applications | [Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/Regex/DetectHTMLTags.py) |
 | Applications | [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/Regex/IPAddressValidation.py) |
 | Applications | [Detecting Valid Latitude and Longitude Pairs](https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/Regex/DetectingValidLatitudeandLongitudePairs.py) |
+| Applications | [Build a Stack Exchange Scraper](https://www.hackerrank.com/challenges/stack-exchange-scraper/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/Regex/BuildaStackExchangeScraper.py) |
 
 
 
