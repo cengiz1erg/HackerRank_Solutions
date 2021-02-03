@@ -1,0 +1,8 @@
+SELECT N,
+CASE 
+    WHEN P IS null THEN 'Root'
+    WHEN N in (SELECT DISTINCT P FROM BST) THEN 'Inner'
+    ELSE 'Leaf'
+END AS status
+FROM BST
+ORDER BY N ASC;
