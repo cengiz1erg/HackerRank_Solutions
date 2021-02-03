@@ -10,6 +10,7 @@
 | Alternative Queries| [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/drawthetriangle1.sql)  |
 | Advanced Select| [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/ThePADS.sql)  |
 | Advanced Select| [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/CASE_when_then_end.sql)  |
+| Advanced Select| [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)  | [Solution](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/SQL/CASE_when_then_end.sql)  |
 
 # Regex
 | Subdomains | Challenge | Python_Solution  |
