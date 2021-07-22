@@ -1,3 +1,9 @@
+#PYTHON
+| Challenge page | Solution |
+| ------- | --- |
+| [Merge the tools](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | [Solution] (https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/python/merge_the_tools.py) |
+
+
 # SQL
 | Subdomains | Challenge | MySQL_Solution  |
 | ------- | --- | --- |
