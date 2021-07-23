@@ -6,6 +6,7 @@
 | [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true) | [#](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/python/athlete_sort.py) |
 | [Validating e-mail Address](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true) | [#](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/python/validating_email_address.py) |
 | [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [#](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/python/reduce_function.py) |
+| [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true) | [#](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/python/matrix_script.py) |
 
 
 
