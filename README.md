@@ -3,6 +3,8 @@
 | ------- | --- |
 | [Merge the tools](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | [#](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/python/merge_the_tools.py) |
 | [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true) | [#](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/python/company_logo.py) |
+| [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true) | [#](https://github.com/cengiz1erg/HackerRank_Solutions/blob/main/python/athlete_sort.py) |
+
 
 
 # SQL
